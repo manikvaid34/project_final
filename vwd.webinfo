@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.dtrhostlib" ID="{37D6DA1F-F5F3-4B24-9746-742A4248AB93}\1.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
